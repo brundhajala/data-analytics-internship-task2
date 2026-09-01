@@ -1,0 +1,13 @@
+
+TASK 2 - EDA SUMMARY
+
+Total Orders: 1499
+Total Revenue: INR 5,845,247.70
+Average Order Value: INR 3,899.43
+Delivered Orders: 1060
+Return Rate: 15.08%
+
+Top Product by Revenue: Smart Watch
+Top Category by Revenue: Electronics
+Top Region by Revenue: South
+Top Acquisition Channel: Paid Search
